@@ -1,0 +1,22 @@
+body{
+    background-color:aliceblue;
+    /* background-image:url(360_F_304071718_P1IyR8uuVDogvXXbjsxcAps7FB5E4DBJ.jpg); */
+   background-image: url(istockphoto-868098786-170667a.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    padding: 1em;
+    
+}
+input{
+    margin-left: 1em;
+    padding: 0.5em;
+    box-shadow: 50px;
+}
+h1{
+    font-weight:bold;
+   
+}
